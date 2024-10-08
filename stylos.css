@@ -1,0 +1,28 @@
+*{
+    box-sizing: border-box;margin: 0%;padding: 0%; list-style: none; text-decoration: none; border: none; outline: none;}
+    
+.contenedor{
+  background-color: #1f242d;
+  height: auto;
+
+}
+.caja1{
+  background-color: blue;
+  height: 100%;
+  width:100%;
+}
+.caja2{
+  background-color: rgb(77, 139, 130);
+  height: 100%;
+  width:100%;
+}
+.caja3{
+  background-color: rgb(138, 138, 138);
+  height: 100%;
+  width:100%;
+}
+.caja4{
+  background-color: rgb(66, 66, 178);
+  height: 100%;
+  width:100%;
+}
